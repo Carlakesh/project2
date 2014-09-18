@@ -5,11 +5,11 @@
 body {
 	font-family: 'Lucida Grande', helvetica, arial, sans-serif;
 	font-size: 12px;
-	background: red;
+	background-image: url('images/hs.png'); height: 70px; width: 500px;
 }
 
 .navigation {
-	margin: 5px 20px;
+	margin: 5px 420px;
 	background: #fff;
 	overflow: hidden;
 	width: 480px;
