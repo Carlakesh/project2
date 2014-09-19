@@ -95,3 +95,16 @@ width:70%;
 width: 30%;
 	}
 } 
+
+@media screen and (max-width: 1600px) {
+
+.post-single {width: 85%;}
+.post-header {width: 100%;}
+	
+}
+
+@media screen and (max-width: 959px) {
+.navigation{
+	width: 100%;
+
+}
