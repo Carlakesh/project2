@@ -176,8 +176,10 @@ width: 30%;
  img{
  	width: 90%; 
  }
-
 }
+
+
+
 @media screen and (max-width:640px) {
 	.navigation li {
 	width: 100%;
