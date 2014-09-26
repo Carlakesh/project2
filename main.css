@@ -1,10 +1,12 @@
 * {margin: 0; padding: 0;}
 
-body {
+#body {
 	font-family: 'Lucida Grande', helvetica, arial, sans-serif;
 	font-size: 12px;
 	background-image: url('images/hs.png'); height: 70px; width: 500px;
 }
+
+
 
 #divv{
 	font-family: 'Oxygen', sans-serif;
@@ -202,19 +204,22 @@ margin: 0px auto;
 }
 
 .image-gallery{
-  width: 80%;
+  width: 20%;
 }
 .image-gallery .big-image{
-  width: 80%;
+  width: 40%;
 }
 .image-gallery .big-image {
-  width: 90%;
+  width: 70%;
 }
 #image1,#image2 , #image3, #image4,#image5 , #image6 , #image7,#image8 , #image9, #image10,#image11 , #image12, #image13{
-	width: 75%;
+	width: 55%;
+
 }
 #default{
-	width: 90%;
+	width: 70%;
+	height: 70%;
+	padding-right: 10px;
 } 
 
 .button, .prev , .next, .thumbs{
@@ -229,5 +234,11 @@ width: 70%;
 	}
 	.image-gallery{
 		width: 100%;
+	
+
+	}
+	#divv{
+		width: 60%;
 	}
 }
+
